@@ -1,7 +1,7 @@
 body {
     width: 1440px;
     height: 100vh;
-    background: linear-gradient(180deg, rgba(1, 8, 14, 1) 1%, rgba(4, 24, 50, 1) 39%, rgba(1, 8, 14, 1) 88%);
+    background: linear-gradient(180deg, rgb(39, 3, 46) 1%, rgb(67, 3, 81) 39%, rgb(39, 3, 46) 88%);
     margin: 5% auto;
     color: #fff;
 }
@@ -19,7 +19,7 @@ header .logo {
 main.container {
     width: 1200px;
     height: auto;
-    border: 2px solid #00F4BF;
+    border: 2px solid #18d6b0;
     margin: 0 auto;
     padding: 4.5rem 6.38rem;
     background-image: url('../assets/PNG/Imagem\ com\ borda.png');
@@ -43,7 +43,7 @@ main.container h1 {
 }
 
 main.container h1 span {
-    color: #1875E8;
+    color: #9713a6;
 }
 
 form {
@@ -68,7 +68,7 @@ form .input-group select,
 form .input-group input {
     background: none;
     color: white;
-    border: 1px solid #00F4BF;
+    border: 1px solid #18d6b0;
     border-radius: .5rem;
     height: 3.5rem;
     padding: .5rem 1rem;
@@ -95,11 +95,11 @@ form button {
     color: white;
     font-size: 1.5rem;
     border: none;
-    background-color: #1875E8;
+    background-color: #9713a6;
     padding: 1rem 1.5rem;
     border-radius: 1rem;
     width: 13rem;
-    box-shadow: 0px 0px 20px 0px rgba(24, 117, 232, 0.50);
+    box-shadow: 0px 0px 20px 0px rgba(28, 243, 232, 0.5);
     cursor: pointer;
 }
 
@@ -130,7 +130,7 @@ form button {
 }
 
 .container section ul li span {
-    color: #00F4BF;
+    color: #18d6b0;
     font-style: italic;
     font-size: 2rem;
     padding-left: 1.5rem;
